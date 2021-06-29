@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#timer {
+    font-size: 25px;
+    margin-right: 10px;
+    text-align: right;
+}
+
+#highscore {
+    font-size: 30px;
+}
+
+main {
+    text-align: center;
+}
+
+main p {
+    font-size: 25px;
+}
+
+main #start-button {
+    background-color: skyblue;
+    border: solid;
+    padding: 10px;
+    font-size: 20px;
+    width: 25%;
+
+
+}
+
+main #start-button:hover {
+    color: white;
+
+}
+
+main #start-button:active {
+    background-color: skyblue;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+}
