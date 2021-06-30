@@ -1,3 +1,14 @@
+var counter = questionsArray
+var timerElement = document.getElementById("timer")
+var timerCount;
+var startButton = document.getElementById("start-button")
+
+function startGame(seconds) [
+    var timerCount = seconds;
+    
+    
+]
+
 var questionsArray=[
 
     { 
