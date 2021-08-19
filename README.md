@@ -10,7 +10,4 @@ I belive that slowly but surely I am progressing and getting better with JS, ove
 ![start quiz](https://user-images.githubusercontent.com/51279438/130040132-6a38d876-6b68-4a5c-9228-7b4456b1ad0e.png)
 
 
-https://drive.google.com/file/d/1gABlpL2X6Dx6cn57qK-WzVrZJam3eMZY/view
-
-
 [Github](https://github.com/LewisCapers206/Code-Quiz)
